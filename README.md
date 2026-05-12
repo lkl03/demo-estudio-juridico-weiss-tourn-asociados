@@ -1,2 +1,7 @@
-# demo-estudio-juridico-weiss-tourn-asociados
-Demo web para Estudio Juridico Weiss, Tourn &amp; Asociados — diseñada por eterlab.
+# Estudio Juridico Weiss, Tourn & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
